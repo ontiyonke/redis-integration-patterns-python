@@ -4,9 +4,9 @@ A series of Jupyter/IPython notebooks where we explain how to implement differen
 
 ## Patterns  
 
-### Point-to-Point Channel  
-
 ### Publish-Subscribe Channel  
+
+### Point-to-Point Channel  
 
 ### Message Translator  
 
