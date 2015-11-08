@@ -8,25 +8,22 @@ A series of Jupyter/IPython notebooks where we explain how to implement differen
 - A [Jupyter Notebook](https://jupyter.org) server to run the notebooks if needed.   
 - We used [redis-py](https://github.com/andymccurdy/redis-py) as a Python client for Redis.   
 
+## First steps  
+
+##### An introduction to Redis with Python  
+
+In this notebook, we will go thourhg a similar set of commands as those described in the [Redis Data Types introduction](http://redis.io/topics/data-types-intro) but using the [redis-py](https://github.com/andymccurdy/redis-py) Python client from a [Jupyter notebook](https://jupyter.org).  
+
 ## Patterns  
 
-### Publish-Subscribe Channel  
-
-### Point-to-Point Channel  
-
-### Message Translator  
-
-### Datatype Channel  
-
-### Message Bus  
 
 
 ## References  
 
 ### Enterprise Integration and Architecture    
 
-*Enterprise Integration Patterns* by Gregor Hohpe and Bobby Woolf  
-*Patterns of Enterprise Application Architecture* by Martin Fowler  
+- *Enterprise Integration Patterns* by Gregor Hohpe and Bobby Woolf  
+- *Patterns of Enterprise Application Architecture* by Martin Fowler  
 
 
 ### Redis  
