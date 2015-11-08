@@ -10,7 +10,7 @@ A series of Jupyter/IPython notebooks where we explain how to implement differen
 
 ## First steps  
 
-##### An introduction to Redis with Python  
+##### [An introduction to Redis with Python](https://github.com/jadianes/redis-integration-patterns-python/blob/master/notebooks/Introduction%20to%20Redis%20with%20Python.ipynb)  
 
 In this notebook, we will go thourhg a similar set of commands as those described in the [Redis Data Types introduction](http://redis.io/topics/data-types-intro) but using the [redis-py](https://github.com/andymccurdy/redis-py) Python client from a [Jupyter notebook](https://jupyter.org).  
 
