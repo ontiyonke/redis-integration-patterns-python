@@ -16,6 +16,15 @@ In this notebook, we will go thourhg a similar set of commands as those describe
 
 ## Patterns  
 
+##### Publish-Subscribe Channel
+
+##### Point-to-Point Channel
+
+##### Message Translator
+
+##### Datatype Channel
+
+##### Message Bus
 
 
 ## References  
